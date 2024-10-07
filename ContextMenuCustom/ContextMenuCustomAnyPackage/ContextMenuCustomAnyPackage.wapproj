@@ -32,7 +32,7 @@
     <DefaultLanguage>zh-CN</DefaultLanguage>
     <AppxPackageSigningEnabled>True</AppxPackageSigningEnabled>
     <NoWarn>$(NoWarn);NU1702</NoWarn>
-    <PackageCertificateThumbprint>72E2DE709FA0E0BCE078E2C76E99A89D72A0D90C</PackageCertificateThumbprint>
+    <PackageCertificateThumbprint>AEC4CB4D77030DC9EF6F54B2AD8F86A0D6756B39</PackageCertificateThumbprint>
     <EntryPointProjectUniqueName>..\ContextMenuCustomApp\ContextMenuCustomApp.csproj</EntryPointProjectUniqueName>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
